@@ -8,7 +8,9 @@ Current Version: 1
 
 ## Credit
 I used this github and the accompanying youtube webinar as a base for this project. I added extra stuff to try and make it my own, but I highly recommend watching the youtube series for extra background.
+
 https://github.com/RiverGumSecurity/PythonShellcode
+
 https://www.youtube.com/watch?v=n-nU2jCK5-c&t=1100s&ab_channel=BlackHillsInformationSecurity
 
 ## How this works:
