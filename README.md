@@ -2,6 +2,8 @@
 ###### This post is strictly educational.
 This repository is meant to provide a wrapper and helper scripts for shellcode to be executed using python.
 As of the time I am posting, it evades Microsoft Defender on Windows 11 with Cloud Protection Enabled.
+
+
 Current Version: 1
 
 ## Credit
