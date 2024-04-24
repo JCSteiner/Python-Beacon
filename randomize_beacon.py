@@ -2,6 +2,7 @@
 # randomize_beacon.py - part of the python beacon project
 # used to randomize the variable and function names of the beacon so its
 # signature changes each time
+# Written by JCSteiner
 ###############################################################################
 
 import random
