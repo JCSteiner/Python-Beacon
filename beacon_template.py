@@ -2,6 +2,19 @@
 # beacon.py - Part of the python beacon project
 # This code is based on: https://github.com/RiverGumSecurity/PythonShellcode
 # Modified by JCSteiner
+# (VV Gorilla ASCII Art VV)
+#               ...      
+#            ..-+%*:.    
+#         .:-++%@=.+:.   
+#       .:++=*%%%#-#*.   
+#   .+==*=:+%@@@@#....   
+#  .+.:%@@@@@=+#@%.      
+#  .+-#@@##*-+**@-.      
+#   +%@@*--=.=+#%:       
+#   =@@*:    =+=#:       
+#   -*@*.    .+@=.       
+#   .....    ....  
+# 
 ###############################################################################
 
 #%%## LOAD DEPENDENCEIS
