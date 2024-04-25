@@ -3,6 +3,19 @@
 # used to randomize the variable and function names of the beacon so its
 # signature changes each time
 # Written by JCSteiner
+# (VV Gorilla ASCII Art VV)
+#               ...      
+#            ..-+%*:.    
+#         .:-++%@=.+:.   
+#       .:++=*%%%#-#*.   
+#   .+==*=:+%@@@@#....   
+#  .+.:%@@@@@=+#@%.      
+#  .+-#@@##*-+**@-.      
+#   +%@@*--=.=+#%:       
+#   =@@*:    =+=#:       
+#   -*@*.    .+@=.       
+#   .....    ....  
+# 
 ###############################################################################
 
 import random
