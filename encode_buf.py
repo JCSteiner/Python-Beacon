@@ -3,6 +3,19 @@
 # used to encode the buffer given by C2
 # This code is based on: https://github.com/RiverGumSecurity/PythonShellcode
 # Modified by JCSteiner
+# (VV Gorilla ASCII Art VV)
+#               ...      
+#            ..-+%*:.    
+#         .:-++%@=.+:.   
+#       .:++=*%%%#-#*.   
+#   .+==*=:+%@@@@#....   
+#  .+.:%@@@@@=+#@%.      
+#  .+-#@@##*-+**@-.      
+#   +%@@*--=.=+#%:       
+#   =@@*:    =+=#:       
+#   -*@*.    .+@=.       
+#   .....    ....  
+# 
 ###############################################################################
 
 #%%## LOAD DEPENDENCIES
